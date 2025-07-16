@@ -2,17 +2,17 @@
 
 I'm an **Associate System Engineer at Tata Consultancy Services**, based in New Delhi. My focus is on enhancing system stability and security, with a passion for leveraging my skills in cybersecurity and DevSecOps to solve complex technical challenges. I'm always eager to collaborate on innovative projects.
 
-- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-URL/)**
-- 💻 See my projects on **[GitHub](https://github.com/YOUR-USERNAME)**
+- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/naveenpawarx/)**
+- 💻 See my projects on **[GitHub](https://github.com/naveenpawarx)**
 
 <br/>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&rank_icon=github" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenpawarx&show_icons=true&theme=dark&rank_icon=github" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenpawarx&layout=compact&theme=dark" />
   </a>
 </p>
 
