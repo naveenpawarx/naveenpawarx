@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an **Associate System Engineer at Tata Consultancy Services**, based in New Delhi. My focus is on enhancing system stability and security, with a passion for leveraging my skills in cybersecurity and DevSecOps to solve complex technical challenges. I'm always eager to collaborate on innovative projects.
+I'm an **Associate System Engineer at Tata Consultancy Services**, based in New Delhi (Remote). My focus is on enhancing system stability and security, with a passion for leveraging my skills in cybersecurity and DevSecOps to solve complex technical challenges. I'm always eager to collaborate on innovative projects.
 
 - 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/naveenpawarx/)**
 - 💻 See my projects on **[GitHub](https://github.com/naveenpawarx)**
